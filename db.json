@@ -1,15 +1,53 @@
 {
-    "posts": [{
-        "id": 1,
-        "title": "json-server",
-        "author": "typicode"
-    }],
-    "comments": [{
-        "id": 1,
-        "body": "some comment",
-        "postId": 1
-    }],
-    "profile": {
-        "name": "typicode"
+  "spiele": [
+    {
+      "titel": "Donkey Kong Go",
+      "jahr": "1982",
+      "publisher": "Nintendo",
+      "preis": "99.99",
+      "id": 1
+    },
+    {
+      "titel": "Asteroids",
+      "jahr": 1979,
+      "publisher": "Atari",
+      "preis": "99.99",
+      "id": 3
+    },
+    {
+      "titel": "Space Invaders",
+      "jahr": "1978",
+      "publisher": "Taito Go",
+      "preis": "99.99",
+      "id": 4
+    },
+    {
+      "titel": "Heretic",
+      "jahr": "1994",
+      "publisher": "Epic",
+      "preis": "37,12",
+      "id": 5
+    },
+    {
+      "titel": "Doom",
+      "jahr": "1990",
+      "publisher": "ID",
+      "preis": "1213",
+      "id": 6
+    },
+    {
+      "titel": "Worms",
+      "jahr": "1998",
+      "publisher": "Worms Inc.",
+      "preis": "173,12",
+      "id": 8
+    },
+    {
+      "titel": "Truck Simulator",
+      "jahr": "2020",
+      "publisher": "TruckEntert.",
+      "preis": "17,461",
+      "id": 10
     }
+  ]
 }
